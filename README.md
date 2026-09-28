@@ -84,8 +84,8 @@ The tests check things like:
 ## Screenshots
 (Add your screenshots here)
 
-1. Weak password result: ![Weak Password Result](Strong_Password.png)
-2. Strong password result: ![Strong Password Result](Weak_Password.png)
+1. Weak password result: ![Weak Password Result](Weak_Password.png)
+2. Strong password result: ![Strong Password Result](Strong_Password.png)
 3. Reuse warning: ![Reuse Warning](Reuse.png)
 
 ## Limitations
